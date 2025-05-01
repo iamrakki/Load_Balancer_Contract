@@ -38,11 +38,11 @@ A library for storing data related to load balancing and function delegation.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/iamrakki/Wasserstoff-Task-2-2024-Blockchain-Interviews.git
+git clone https://github.com/iamrakki/Load_Balancer_Contract
 
 2. Install dependencies:
 ```bash
-cd Wasserstoff-Task-2-2024-Blockchain-Interviews
+cd Load_Balancer_Contract
 npm install
 
 3. Run
